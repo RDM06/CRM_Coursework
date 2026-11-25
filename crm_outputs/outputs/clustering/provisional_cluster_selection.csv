@@ -1,0 +1,5 @@
+Features,Method,k,Reason
+RiskReturn,Ward,3,Manually chosen by analyst
+RiskReturn,KMeans,3,Manually chosen by analyst
+RFM,Ward,3,Manually chosen by analyst
+RFM,KMeans,4,Manually chosen by analyst
